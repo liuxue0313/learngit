@@ -6,3 +6,4 @@ change---远程仓库
 creating a new branch is quick.
 Creating a new branch is quick and simple.
 merge --no-ff
+bug issue
